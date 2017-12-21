@@ -1,0 +1,221 @@
+header {
+  background-color: #033048;
+
+
+}
+
+body {
+     color: #000;
+     font-size: 24px;
+     font-weight: 300;
+     line-height: 1.4;
+     font-family: "Open Sans", sans-serif;
+     text-align: left;
+
+     width: 80%;
+     margin: 0 auto;
+}
+
+nav {
+  margin: 0 auto;
+}
+
+a {
+  color: #033048;
+  display: inline-block;
+  margin-top: 2%;
+  margin-left: 10px;
+  margin-right: 13px;
+  margin-bottom: 4%;
+  text-decoration: none;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 600;
+  display: block;
+  text-align: center;
+  margin-top: 55px;
+}
+
+p {
+  font-size: 13px;
+  font-weight: 300;
+
+}
+
+ul {
+  margin-bottom: 5%;
+  display: inline;
+}
+
+li {
+  font-size: 24px;
+  font-weight: 600;
+  display: inline;
+  padding-left: 30px;
+}
+
+.main {
+   background-color: #f0efef;
+}
+
+.maintitle {
+  color: white;
+  font-size: 24px;
+  font-weight: 800;
+  margin-left: 10%;
+  display: inline-block;
+padding-top: 20px;
+width: auto;
+}
+
+.topnav {
+  font-size: 24px;
+  font-weight: 400;
+  color: #f9e42e;
+  display: inline-block;
+padding-left: 18%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+.blog {
+width: 50%;
+margin-left: 10%;
+display: inline-block;
+}
+.entry {
+  margin-bottom: 3%;
+  margin-top: 3%;
+}
+
+.blogheading {
+  font-size: 40px;
+  font-weight: 600;
+  text-align: left;
+  color: #033048;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.readmore {
+  display: block;
+  font-size: 24px;
+  font-weight: 600;
+  text-align: right;
+  color: #033048;
+  margin-top: 40px;
+}
+
+.sidebar {
+  margin-top: 0px;
+  width: 25%;
+  display: inline-block;
+  margin-right: 1%;
+  margin-left: 2%;
+  vertical-align: top;
+}
+
+.sideheading {
+  font-size: 32px;
+  font-weight: 800;
+  text-align: left;
+  color: #033048;
+}
+.sidenav {
+  font-size: 24px;
+  font-weight: 300;
+  display: block;
+}
+.sidelist {
+
+  display: block;
+}
+.sideitem {
+  display: block;
+  padding-left: 0px;
+  font-size: 24;
+  font-weight: 300;
+}
+.sidelink {
+  margin-top: 0;
+  margin-left: 0;
+  margin-bottom: 0;
+}
+.learnmore {
+  display: block;
+  font-size: 24px;
+  font-weight: 600;
+  text-align: left;
+  color: #033048;
+  margin-left: 0;
+
+}
+
+.abouttext {
+
+font-size: 22px;
+font-weight: 300;
+
+}
+
+.adsection {
+  color: #033048;
+  font-size: 32px;
+  font-weight: 800;
+  text-align: center;
+  padding-top: 5px;
+  margin-top: 20px;
+background-color: white;
+  width: 100%;
+  height: 400px;
+}
+
+.signupsection {
+  width: 100%;
+  background-color: #f9e42e;
+  height: 60px;
+  padding-top: 2.5%;
+}
+
+.signupbutton {
+  font-size: 14px;
+  font-weight: 800;
+  border-radius: 5px;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  background-color: #033048;
+  margin: 0 auto;
+  width: 20%;
+  height: 40px;
+  display: block;
+}
+
+
+footer {
+  width: 100%;
+  height: 300px;
+  background-color: #121212;
+  color: white;
+  font-size: 9px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.endtitle {
+  color: #f9e42e;
+  font-size: 24px;
+  font-weight: 800;
+  margin: 0 auto;
+  padding-top: 30px;
+  text-align: center;
+}
+
+hr {
+color: #033048;
+}
